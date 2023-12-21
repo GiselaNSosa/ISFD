@@ -3,10 +3,18 @@
         padding: 25px;
         text-align: justify;
     }
-
+    .nav .nav_link{
+        margin-right: 0px;
+}
     .info-section{
         padding: 25px;
     }
+    body {
+background:#d4d4bd;
+
+    }
+
+
 }
 
 @media (max-width:992px){
@@ -18,7 +26,7 @@
         align-content: center;
         padding: 25px;
         justify-content: space-evenly;
-        color: #fff;
+        color: #635d5d;
         flex-direction: column;
         text-align: justify;
    }
