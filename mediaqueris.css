@@ -1,0 +1,26 @@
+@media (max-width: 620px){
+    .contenedor .wrap .box {
+        padding: 25px;
+        text-align: justify;
+    }
+
+    .info-section{
+        padding: 25px;
+    }
+}
+
+@media (max-width:992px){
+    .texto-descriptivo {
+       
+        display: flex;
+        max-width: 2000px;
+        margin-bottom: 25px;
+        align-content: center;
+        padding: 25px;
+        justify-content: space-evenly;
+        color: #fff;
+        flex-direction: column;
+        text-align: justify;
+   }
+}
+    
