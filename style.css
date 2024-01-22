@@ -292,4 +292,29 @@ background:#d4d4bd;
     width: 500px;
     font-family: Arial, Helvetica, sans-serif;
     }
-    
+
+    .form {
+      width:300px;
+      border-radius: 8px;
+      box-shadow: 0 2px 2px rgba(172, 12, 25, 0.2);
+      margin:20px;
+      padding-bottom: 10px;
+      text-align: center;
+      transition: all 0.25s;
+      align-items: center;
+      background-color: #0a0a0a;
+      color: #ecc998;
+      border-radius: 10px;
+    }
+   .Ingresar {
+    width: 80px;
+    height: 30px 
+   ;}
+.registrar {
+  width: 200px;
+  height:40px;
+  padding-bottom: 20px;
+}
+.volver {
+  color: #ecc998;
+}
